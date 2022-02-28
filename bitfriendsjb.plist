@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/b17fr13nds/iOS-programming/raw/main/testapp.ipa</string>
+					<string>https://github.com/b17fr13nds/iOS-programming/raw/main/bitfriendsjb.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxx.testapp</string>
+				<string>com.bitfriends.bitfriendsjb</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>testapp</string>
+				<string>bitfriendsjb</string>
 			</dict>
 		</dict>
 	</array>
